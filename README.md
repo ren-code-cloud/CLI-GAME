@@ -1,11 +1,13 @@
-# 🗡️CLI-BASED RPG
-This project is one of the challenges by Tech with Nader, and because of
+## 🗡️CLI-BASED RPG
+
+
+<p>This project is one of the challenges by Tech with Nader, and because of
 him, I have been able to deepen my knowledge in JavaScript/Node.js even
-further.
+further. </p>
 
-# ⚔️QUEST FOR THE QUEEN ADVENTURE⚔️
+## ⚔️QUEST FOR THE QUEEN ADVENTURE⚔️
 
-# INTRODUCTION:
+## INTRODUCTION:
 Welcome to "Quest for the Queen," a thrilling cli- based RPG set in the
 realm mystical realm of Aetheria. In this epic adventure, you will play
 the role of a brave warrior on a mission to save the Queen from an
@@ -15,7 +17,7 @@ strategic decisions will determine the outcome of this quest. Are you
 ready to embark on a daring adventure to rescue the Queen and restore
 peace to Aetheria?
 
-# OBJECTIVE
+## OBJECTIVE
 The main goal of the game is to save the Queen, who is held captive by
 a malevolent force threatening to plunge the world into darkness. As
 the hero, you must navigate through the dangerous forest, defeat
@@ -23,7 +25,7 @@ enemies, and locate hidden items to aid you in your quest. The ultimate
 challenge lies in defeating the powerful spider enemy guarding the
 Queen's lair.
 
-# Game Mechanics:
+## Game Mechanics:
 
 1. Exploration: You will explore the enchanted forest, represented as a
 series of cli-based scenarios. Use commands such as "w - up," "s - down," "d - right," or "a - left" to navigate through different locations.
@@ -45,7 +47,7 @@ complete your quest.
 limited space. Decide which items to keep, as some might be crucial for
 overcoming obstacles later in the game.
 
-# Tips for Success:
+## Tips for Success:
 
 1. Strategic Decisions: Plan your path carefully. Prepare for battles by
 managing your health and energy effectively.
