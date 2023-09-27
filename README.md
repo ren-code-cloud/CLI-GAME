@@ -1,4 +1,4 @@
-## 🗡️CLI-BASED RPG
+### 🗡️CLI-BASED RPG
 
 
 <p>This project is one of the challenges by Tech with Nader, and because of
