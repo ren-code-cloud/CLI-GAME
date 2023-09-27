@@ -1,4 +1,4 @@
-### 🗡️CLI-BASED RPG
+## 🗡️CLI-BASED RPG
 
 
 <p>This project is one of the challenges by Tech with Nader, and because of
@@ -8,26 +8,27 @@ further. </p>
 ## ⚔️QUEST FOR THE QUEEN ADVENTURE⚔️
 
 ## INTRODUCTION:
-Welcome to "Quest for the Queen," a thrilling cli- based RPG set in the
+
+<p>Welcome to "Quest for the Queen," a thrilling cli- based RPG set in the
 realm mystical realm of Aetheria. In this epic adventure, you will play
 the role of a brave warrior on a mission to save the Queen from an
 imminent threat. But be warned, the journey is far from easy!
 Treacherous forests conceal hidden enemies and valuable items. Your
 strategic decisions will determine the outcome of this quest. Are you
 ready to embark on a daring adventure to rescue the Queen and restore
-peace to Aetheria?
+peace to Aetheria?</p>
 
 ## OBJECTIVE
-The main goal of the game is to save the Queen, who is held captive by
+<p>The main goal of the game is to save the Queen, who is held captive by
 a malevolent force threatening to plunge the world into darkness. As
 the hero, you must navigate through the dangerous forest, defeat
 enemies, and locate hidden items to aid you in your quest. The ultimate
 challenge lies in defeating the powerful spider enemy guarding the
-Queen's lair.
+Queen's lair.</p>
 
 ## Game Mechanics:
 
-1. Exploration: You will explore the enchanted forest, represented as a
+<p>1. Exploration: You will explore the enchanted forest, represented as a
 series of cli-based scenarios. Use commands such as "w - up," "s - down," "d - right," or "a - left" to navigate through different locations.
 2. Hidden Enemies and Items: Be cautious as 40% of the time, you will
 encounter hidden enemies lurking in the forest. Engage in turn-based
@@ -45,10 +46,10 @@ complete your quest.
 
 4. Inventory Management: Manage your inventory effectively as it has
 limited space. Decide which items to keep, as some might be crucial for
-overcoming obstacles later in the game.
+overcoming obstacles later in the game.</p>
 
 ## Tips for Success:
-
+<p>
 1. Strategic Decisions: Plan your path carefully. Prepare for battles by
 managing your health and energy effectively.
 
@@ -70,5 +71,5 @@ experience, where your choices will shape the fate of Aetheria. Embark
 on this heroic journey, defeat enemies, discover hidden items, and save
 the Queen from the clutches of darkness. The realm awaits your bravery
 and determination. Are you ready to become the legendary savior of
-Aetheria? Good luck, warrior!
+Aetheria? Good luck, warrior!</p>
 
