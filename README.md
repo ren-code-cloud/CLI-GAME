@@ -29,24 +29,24 @@ Queen's lair.</p>
 ## Game Mechanics:
 
 <p>1. Exploration: You will explore the enchanted forest, represented as a
-series of cli-based scenarios. Use commands such as "w - up," "s - down," "d - right," or "a - left" to navigate through different locations.
+series of cli-based scenarios. Use commands such as "w - up," "s - down," "d - right," or "a - left" to navigate through different locations. </p>
   
-2. Hidden Enemies and Items: Be cautious as 40% of the time, you will
+<p>2. Hidden Enemies and Items: Be cautious as 40% of the time, you will
 encounter hidden enemies lurking in the forest. Engage in turn-based
 combat to defeat them and continue your journey. On the other hand, 30%
 of the time, you might discover valuable items that will aid you in
-your quest.
+your quest.</p>
 
-3. Battle System: Battles will follow a turn-based combat system. You
+<p>3. Battle System: Battles will follow a turn-based combat system. You
 will have options to attack, defend, or use special abilities during
 your encounters with enemies. Each enemy has unique strengths and
-weaknesses; choose your strategy wisely.
+weaknesses; choose your strategy wisely.</p>
 
-4. Spider Enemy: The final confrontation awaits you when you reach the
+<p>4. Spider Enemy: The final confrontation awaits you when you reach the
 Queen's lair. Defeat the powerful spider enemy to save the Queen and
-complete your quest.
+complete your quest.</p>
 
-5. Inventory Management: Manage your inventory effectively as it has
+<p>5. Inventory Management: Manage your inventory effectively as it has
 limited space. Decide which items to keep, as some might be crucial for
 overcoming obstacles later in the game.</p>
 
