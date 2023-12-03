@@ -1,7 +1,7 @@
 ## 🗡️CLI-BASED RPG
 
 
-<p>This project is one of the challenges by Tech with Nader, and because of
+<p style="font-size: 10px;">This project is one of the challenges by Tech with Nader, and because of
 him, I have been able to deepen my knowledge in JavaScript/Node.js even
 further. </p>
 
