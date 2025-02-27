@@ -13,7 +13,7 @@ Quest for the Queen is a text-based console RPG where you navigate an adventure 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quest-for-the-queen.git
+git clone https://github.com/ren-code-cloud/CLI-GAME.git
 
 # Navigate to the project directory
 cd quest-for-the-queen
