@@ -1,10 +1,17 @@
-## 🗡️CLI-BASED RPG
+# CLI-Based RPG: Quest for The Queen
 
+<div align="center">
+  <h2>🗡️ Quest for the Queen 👑</h2>
+  <p>A text-based console role playing game (RPG) with a CLI-style interface</p>
+</div>
 
-<p style="font-size: 10px;">This project is one of the challenges by Tech with Nader, and because of
-him, I have been able to deepen my knowledge in JavaScript/Node.js even
-further. </p>
+## Overview
 
+Quest for the Queen is a text-based console role playing game (RPG) with a CLI-style interface where you will try to navigate an adventure to find the evil one that kidnapped the queen. You explore magical forests, fight with turn-based combat, and outsmart your concealed foes and trials with shrewd choices. The fate of the Queen and the land of Aetheria lies in your hands.
+
+<div>
+  <p style="font-size: 10px;">This project is one of the challenges by Tech with Nader, and because of him, I have been able to deepen my knowledge in JavaScript/Node.js even further.</p>
+</div>
 ## ⚔️QUEST FOR THE QUEEN ADVENTURE⚔️
 
 ## INTRODUCTION:
